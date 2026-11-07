@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BVHGUI" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="assignment.GUI" />
+    <module name="prog6" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
